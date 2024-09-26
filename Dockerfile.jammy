@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM ubuntu:22.10
 
 LABEL version="5.0"
 LABEL description="SANS Investigative Forensic Toolkit based on Ubuntu 22.04 LTS"
